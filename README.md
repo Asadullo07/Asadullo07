@@ -239,7 +239,7 @@ I believe the fastest way to become a better developer is to:
 <a href="https://www.linkedin.com/in/asadullo-ahmadjonov">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://t.me/@Asadullo_2007">
+<a href="https://t.me/Asadullo_2007">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 </p>
