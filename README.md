@@ -124,7 +124,6 @@ Deploying real projects and turning concepts into working products.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-pi-orpin-27.vercel.app/api?username=Asadullo07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="Asadullo GitHub Stats" />
   <img src="https://github-readme-stats-pi-orpin-27.vercel.app/api/top-langs/?username=Asadullo07&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Asadullo Top Languages" />
 </p>
 
@@ -138,13 +137,13 @@ Deploying real projects and turning concepts into working products.
 
 ---
 
-# 🏆 GitHub Trophies
+<!--# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Asadullo07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" alt="Asadullo GitHub Trophies" />
 </p>
 
----
+---  -->
 
 # 📈 Contribution Activity
 
